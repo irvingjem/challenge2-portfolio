@@ -220,20 +220,24 @@ h2 {
     .prodesc {
         font-size: 1em;
     }
-    @media screen and (max-width: 812px) {
-        .work-img {
-            height: 100vw;
-            -webkit-box-flex: 0;
-            -ms-flex: 0 0 100vw;
-            flex: 0 0 100vw;
-        }
-    }
-    @media screen and (max-width: 425px) {
-        .bio-container bio-image p {
-            flex-direction: column;
-        }
+}
+
+@media screen and (max-width: 812px) {
+    .work-img {
+        height: 100vw;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100vw;
+        flex: 0 0 100vw;
     }
 }
 
+@media screen and (max-width: 425px) {
+    #main-bio {
+        flex-direction: column;
+    }
+}
+
+
+}
 
 /* End Media Queries */
