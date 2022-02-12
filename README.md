@@ -7,7 +7,7 @@ Hi I'm Jem I created this site!
 
 I focused on creating a well designed site 
 to hold all the work I have done and creating 
-an easy way to update and add new work. 
+an easy way to update and add new work. This will help me to promote myself and my work to a larger audience creating more opportunties for myself!
 
 ## A Sneak Peek
 
