@@ -14,3 +14,5 @@ an easy way to update and add new work.
 ![A small snapshot of my portfolio](./assets/portfolio.jpg)
 
 ## Links
+https://github.com/irvingjem/challenge2-portfolio
+https://irvingjem.github.io/challenge2-portfolio/
