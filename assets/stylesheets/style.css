@@ -60,8 +60,28 @@ img {
     padding-top: 60px;
 }
 
+.contact-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contact h2 {
+    display: block;
+}
+
+.contact-container a {
+    text-decoration: none;
+    color: black;
+    margin: 10px auto;
+    font-weight: bold;
+}
+
+.contact-container a:hover {
+    background-color: black;
+    color: white;
+}
+
 #main-bio,
-#contact-info,
 #bio-image {
     display: flex;
 }
@@ -73,7 +93,8 @@ img {
 }
 
 #main-bio p {
-    margin: 75px 1500px 10px 50px;
+    margin: 0 auto;
+    width: 50%;
 }
 
 h1 {
@@ -168,18 +189,4 @@ a.work-img:hover h2 {
     color: black;
     padding: 5px;
     font-weight: bold;
-}
-
-.contact-container {
-    width: 1024px;
-    margin: 60px auto;
-}
-
-.contact h2 {
-    display: block;
-}
-
-.contact-container ul li a {
-    text-decoration: none;
-    color: black;
 }
