@@ -146,7 +146,8 @@ h2 {
 }
 
 
-/* .work-img h2 {
+/* 
+.work-img h2 {
     position: relative;
     background-color: rgba(255, 255, 255, 0.8);
     color: black;
@@ -156,12 +157,13 @@ h2 {
     z-index: 99;
 } */
 
-
-/* .prodesc {
+.prodesc {
     text-align: center;
     display: flex;
     flex-wrap: wrap;
-} */
+    z-index: 99;
+    color: black;
+}
 
 .work-img:hover {
     box-shadow: 4px 4px 0 0 black;
